@@ -10,7 +10,7 @@ export function Demo() {
     <>
       <ResizablePanelGroup
         direction="vertical"
-        className="max-w-md min-h-[200px] max-h-[00px] rounded-lg border"
+        className="max-w-md min-h-[200px] max-h-[500px] rounded-lg border"
       >
         <ResizablePanel 
           id="A"
